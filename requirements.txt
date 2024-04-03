@@ -1,0 +1,9 @@
+about-time==4.2.1
+alive-progress==3.1.1
+autopep8==2.0.2
+grapheme==0.6.0
+Pillow==9.5.0
+pycodestyle==2.10.0
+pypng==0.20220715.0
+qrcode==7.4.2
+typing_extensions==4.5.0
