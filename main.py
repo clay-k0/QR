@@ -1,6 +1,6 @@
 """
 Author: Clayton King
-Date: Fri 20 Apr 2024
+Date: Sun 21 Apr 2024
 Description: Generates and saves QR codes.
 """
 
